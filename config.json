@@ -1,0 +1,12 @@
+﻿{
+    "system_data":  "LVSAddins/SystemData",
+    "bundle":  "AppPackage/f7dd0c6a3d294619b860be33a4f0a4a5.msixbundle",
+    "dependencies":  [
+                         "AppPackage/Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x64__8wekyb3d8bbwe.appx",
+                         "AppPackage/Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x64__8wekyb3d8bbwe.appx",
+                         "AppPackage/Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe.appx"
+                     ],
+    "suhelper":  "SystemUpdate/SUHelperSetup.exe",
+    "addins":  "LVSAddins/Addins",
+    "license":  "AppPackage/f7dd0c6a3d294619b860be33a4f0a4a5_License1.xml"
+}
